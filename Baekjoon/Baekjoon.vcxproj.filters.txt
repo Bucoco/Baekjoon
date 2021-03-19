@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\미해결">
+      <UniqueIdentifier>{e8d033c2-41cd-4dec-ace5-3e2fbb0656b6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="sort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="template.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EPR.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UpperTriangularMatrix.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2261-가장 가까운 두 점.cpp">
+      <Filter>소스 파일\미해결</Filter>
+    </ClCompile>
+    <ClCompile Include="2751-수 정렬하기2.cpp">
+      <Filter>소스 파일\미해결</Filter>
+    </ClCompile>
+    <ClCompile Include="8889-등고선 지도.cpp">
+      <Filter>소스 파일\미해결</Filter>
+    </ClCompile>
+    <ClCompile Include="11066-파일합치기.cpp">
+      <Filter>소스 파일\미해결</Filter>
+    </ClCompile>
+    <ClCompile Include="12783-곱셈 게임.cpp">
+      <Filter>소스 파일\미해결</Filter>
+    </ClCompile>
+    <ClCompile Include="14169-섬 여행.cpp">
+      <Filter>소스 파일\미해결</Filter>
+    </ClCompile>
+    <ClCompile Include="15685-드래곤커브.cpp">
+      <Filter>소스 파일\미해결</Filter>
+    </ClCompile>
+    <ClCompile Include="15790-최종병기 활.cpp">
+      <Filter>소스 파일\미해결</Filter>
+    </ClCompile>
+    <ClCompile Include="17143-낚시왕.cpp">
+      <Filter>소스 파일\미해결</Filter>
+    </ClCompile>
+    <ClCompile Include="1436-영화감독 숌.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt" />
+    <Text Include="output.txt" />
+  </ItemGroup>
+</Project>
