@@ -5,6 +5,6 @@
     <Text Include="output.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="10000\10866-덱.cpp" />
+    <ClCompile Include="template.cpp" />
   </ItemGroup>
 </Project>
