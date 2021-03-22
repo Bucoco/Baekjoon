@@ -22,11 +22,6 @@
     <Text Include="input.txt" />
     <Text Include="output.txt" />
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="template.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">True</ExcludedFromBuild>
-    </ClCompile>
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{BBE336F9-FA7B-4791-AB74-79D511E68305}</ProjectGuid>
