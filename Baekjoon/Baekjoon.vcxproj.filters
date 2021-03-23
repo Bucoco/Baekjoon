@@ -4,4 +4,7 @@
     <Text Include="input.txt" />
     <Text Include="output.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="10000\10989-수 정렬하기 3.cpp" />
+  </ItemGroup>
 </Project>
