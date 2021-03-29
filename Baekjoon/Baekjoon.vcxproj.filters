@@ -6,5 +6,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="etc\template.cpp" />
+    <ClCompile Include="2000\2407-조합.cpp" />
   </ItemGroup>
 </Project>
