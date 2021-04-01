@@ -6,5 +6,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="etc\template.cpp" />
+    <ClCompile Include="1000\1208-부분수열의 합 2.cpp" />
   </ItemGroup>
 </Project>
