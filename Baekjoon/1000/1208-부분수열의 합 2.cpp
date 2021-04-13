@@ -8,10 +8,6 @@ map<int, int> sum;
 vector<int> v;
 int n, s, ans = 0;
 
-
-
-
-
 int main() {
 	cin.tie(0); cout.tie(0);
 	ios::sync_with_stdio(false);
